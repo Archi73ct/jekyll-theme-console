@@ -43,6 +43,10 @@ header {
     font-family: $topaz-font;
 }
 header p { text-align: left;  margin: 0; }
+header pre {
+    line-height: 1;
+    font-family: $topaz-font;
+}
 footer { margin-bottom: 20px; }
 
 /**
